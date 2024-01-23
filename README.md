@@ -1,4 +1,5 @@
-First Laravel App
+First Laravel App. 
+This project was made with no CSS simply to learn and understand how Laravel works
 
 # to get start type:
 composer create-project laravel/laravel laravelapp
